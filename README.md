@@ -4,6 +4,15 @@
 
 This project demonstrates the ability to extract, transform, and load (ETL) data for use in data analysis.
 
+* Languages and libraries used:
+    * Python
+    * Pandas
+    * SQLAlchemy
+    * Postgres
+
+
+---
+
 Clone the repository to your desktop and do the following:
 
 1. Navigate to the cloned folder and launch a GitBash (Windows) or Terminal (Mac).
