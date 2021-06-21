@@ -4,11 +4,11 @@
 
 This project demonstrates the ability to extract, transform, and load (ETL) data for use in data analysis.
 
-* Languages and libraries used:
-    * Python
-    * Pandas
-    * SQLAlchemy
-    * Postgres
+Languages and libraries used:
+* Python
+* Pandas
+* SQLAlchemy
+* Postgres
 
 
 ---
